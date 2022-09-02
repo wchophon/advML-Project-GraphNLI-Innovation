@@ -4,3 +4,8 @@ For Advance Machine Learning final project of Reichman University, based on the 
 
 
 By Chufeng Wu and Ziv Wollman.
+
+Results:
+| | Anchor Paper| Re-implementation| Innovation|
+| Baseline Model| 79.86| 79.04|80.28|
+| Weighted Root-Seeking Model| 82.87| 82.62|83.07|
